@@ -12,4 +12,4 @@ Repositorio creado como prueba , pero tambien es como para divertirse y mostrar 
 
 ![](C:\Users\vaito\OneDrive\Escritorio\clone\PruebaDeAdministracionDeSoftware\img\chems2.png)
 
-![](\img\chems3.jpg)
+![](img\chems3.jpg)
