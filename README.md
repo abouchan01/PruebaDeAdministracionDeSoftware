@@ -6,10 +6,10 @@ Repositorio creado como prueba , pero tambien es como para divertirse y mostrar 
 
 
 
-![](C:\Users\vaito\OneDrive\Escritorio\clone\PruebaDeAdministracionDeSoftware\img\chems1.jpg)
+![](https://animal.mx/wp-content/uploads/2020/05/memes-de-cheems-origen-4.jpg)
 
 
 
-![](C:\Users\vaito\OneDrive\Escritorio\clone\PruebaDeAdministracionDeSoftware\img\chems2.png)
+![](https://animal.mx/wp-content/uploads/2020/05/memes-de-cheems-origen-2.png)
 
-![](img\chems3.jpg)
+![](https://animal.mx/wp-content/uploads/2020/05/memes-de-cheems-origen.png)
